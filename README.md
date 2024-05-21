@@ -3,22 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gabriel Gonzalez - Developer</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-  }
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  .gif-container {
-    margin-bottom: 20px;
-  }
-</style>
-</head>
-<body>
 
 <div class="container">
   <h1>Hi 👋, I'm Gabriel Gonzalez</h1>
