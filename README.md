@@ -9,7 +9,7 @@
   <h3>A passionate developer</h3>
   
   <div class="gif-container">
-    <img src="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI" alt="Developer GIF" width="300">
+    <img src="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8" alt="Developer GIF" width="300">
   </div>
 
   <h3>Languages and Tools:</h3>
