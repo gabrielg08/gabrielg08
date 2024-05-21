@@ -9,7 +9,7 @@
   <h3>A passionate developer</h3>
   
   <div class="gif-container">
-    <img src="https://media.giphy.com/media/4heseFMvObk9q/giphy.gif?cid=ecf05e47c2e5e01tz1jmhiwwu9j8itplsctl1fg56eor64v7&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Developer GIF" width="300">
+    <img src="https://media.giphy.com/media/4heseFMvObk9q/giphy.gif?cid=ecf05e47c2e5e01tz1jmhiwwu9j8itplsctl1fg56eor64v7&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Developer GIF" width="600">
   </div>
 
   <h3>Languages and Tools:</h3>
