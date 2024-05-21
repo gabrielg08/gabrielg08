@@ -3,12 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<title>Gabriel Gonzalez - Developer</title>
 </head>
 <body>
 
 <h1 style="text-align: center;">Hi 👋, I'm Gabriel Gonzalez</h1>
 <h3 style="text-align: center;">A passionate developer</h3>
+
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" alt="Developer GIF" width="300">
+</div>
 
 <h3>Languages and Tools:</h3>
 <p>
