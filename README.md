@@ -8,9 +8,9 @@
   <h1>Hi 👋, I'm Gabriel Gonzalez</h1>
   <h3>A passionate developer</h3>
   
-  <div class="gif-container">
-    <img src="https://media.giphy.com/media/4heseFMvObk9q/giphy.gif?cid=ecf05e47c2e5e01tz1jmhiwwu9j8itplsctl1fg56eor64v7&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Developer GIF" width="600">
-  </div>
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/4heseFMvObk9q/giphy.gif?cid=ecf05e47c2e5e01tz1jmhiwwu9j8itplsctl1fg56eor64v7&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Developer GIF" height="100%">
+</div>
 
   <h3>Languages and Tools:</h3>
   <p>
